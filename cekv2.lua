@@ -8,10 +8,7 @@ local LocalPlayer = Players.LocalPlayer
 local CoreGui = game:GetService("CoreGui")
 
 local PETS_TO_COUNT = {
-    "Giant Scorpion", "Rainbow Dilophosaurus", "Rainbow Elephant", 
-    "Ghostly Headless Horseman", "Rainbow Birb", "Seal", "Flamingo", 
-    "Toucan", "Sea Turtle", "Orang Utan", "Mimic Octopus", "Kitsune", 
-    "Raccoon", "Peryton", "Gilded Choc Peryton"
+    "Mimic Octopus"
 }
 
 -- Pet yang sedang dipilih (Default: Pet pertama di daftar)
